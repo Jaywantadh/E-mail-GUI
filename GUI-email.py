@@ -1,7 +1,9 @@
 #################################################################################################################################################################################################
 # ###############################################################################################################################################################################################
-# Code Created and Edited by: Jaywant Sandeep Adhau                                               
-# 
+# Code Created and Edited by: Jaywant Sandeep Adhau
+#
+# |Version:- 2:0:3| [Published edtion: 1:0:0]  
+#
 # Functions:
 # -EmailSchedulerApp Class: Contains the main functionality and GUI components.
 # -attach_file(): Opens a file dialog to select a file for attachment.
